@@ -6,7 +6,7 @@ Benvingut/da al meu repositori personal de GitHub! Aquest espai és el meu porta
 
 ## 🙋 Qui soc?
 
-Hola! Em dic **[Escriu aquí el teu nom o àlies]** i actualment estic estudiant **Sistemes Microinformàtics i Xarxes (SMX)**.
+Hola! Em dic **Guillermo Solernou Sánchez** i actualment estic estudiant **Sistemes Microinformàtics i Xarxes (SMX)**.
 
 M'interessa el món de la informàtica, els ordinadors, les xarxes i la tecnologia. En aquest repositori vull mostrar el meu progrés, els coneixements que vaig adquirint i les meves ganes de continuar aprenent.
 
