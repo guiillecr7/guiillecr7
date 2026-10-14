@@ -1,8 +1,8 @@
 <!-- ⚠️ Substitueix TOT_EL_TEU_USUARI pel teu nom d'usuari real de GitHub (hi apareix diverses vegades) --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Guillermo%20Solernou&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudiant%20de%20Sistemes%20Microinform%C3%A0tics%20i%20Xarxes&descAlignY=58&descSize=18" alt="Capçalera" /> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C9CFF&center=true&vCenter=true&width=600&lines=Hola!+Soc+Guillermo+%F0%9F%91%8B;Estudiant+de+SMX+%F0%9F%92%BB;Apassionat+de+les+xarxes+i+el+hardware+%F0%9F%8C%90;Aprenent+cada+dia+%F0%9F%9A%80" alt="Typing SVG" /> </a> <br>
 
-Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen
 
-Mostrar imagen
+
+
 
 </div>
 🙋‍♂️ Qui soc?
@@ -16,17 +16,27 @@ M'apassiona el món de la informàtica: des de muntar un ordinador peça a peça
 🧰 Tecnologies i eines
 <div align="center"> <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian,bash,powershell,git,github,vscode,raspberrypi&perline=10" alt="Tecnologies" /> </div>
 Àrea	Què estic aprenent
+
 🖥️ Hardware	Muntatge, components, diagnòstic i manteniment d'equips
+
 💿 Sistemes operatius	Instal·lació i configuració de Windows i Linux
+
 🌐 Xarxes	Models OSI/TCP-IP, adreçament IP, subxarxes, routing i switching
+
 🛠️ Suport tècnic	Resolució d'incidències i atenció a l'usuari
+
 🔐 Seguretat	Bones pràctiques, còpies de seguretat i protecció de dades
+
 🔄 Eines digitals	Git, GitHub i documentació tècnica
+
 🚀 Els meus projectes
 Projecte	Descripció	Tecnologies	Estat
 📁 Portafoli personal	Repositori de GitHub per presentar els meus coneixements	Git GitHub Markdown	✅ Fet
+
 🖥️ Muntatge d'un PC	Muntatge i verificació d'un ordinador pas a pas	Hardware	🔜 Properament
+
 🌐 Xarxa local (LAN)	Disseny i configuració d'una xarxa amb subxarxes	Xarxes TCP/IP	🔜 Properament
+
 🐧 Servidor Linux	Instal·lació i configuració bàsica d'un servidor	Linux Bash	🔜 Properament
 
 📌 Aniré afegint aquí cada pràctica amb captures, esquemes i documentació.
@@ -48,7 +58,7 @@ Projecte	Descripció	Tecnologies	Estat
 📫 Contacte
 <div align="center">
 
-GitHub LinkedIn Email
+
 
 </div>
 <div align="center">
